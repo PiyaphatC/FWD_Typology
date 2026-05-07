@@ -19,7 +19,7 @@ fwd_typology_review/
 ├── cluster_pipeline.py       # K-means clustering pipeline on FWD deflection bowl indices
 ├── fwd100_latlon.csv         # FWD measurement dataset with geolocation (n = 77,230)
 └── manuscript/
-    └── Manoj_paper_rev11.docx  # Current manuscript draft
+    └── Manoj_paper_rev11.docx  # Current removed, we will post after the manuscript accepted
 ```
 
 ---
